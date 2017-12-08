@@ -18,7 +18,7 @@ module.exports = {
     minHeight: 600,
     maxWidth: 1900,
     maxHeight: 1020,
-    title: 'Develop Node-Vue-Blog',
+    title: 'Dev Node-Vue-Blog',
     icon:   __dirname + './favicon.ico',
     backgroundColor: '#FFF',
     center: true,

@@ -51,7 +51,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
   npm run move : move packagers files to project
   npm run electron_dev : create window and not package
   npm run electron_rebuild_dev : rebuild vue project and create window
-  npm run packager: rebuild vue project and move package file to project, at last,package prject and build a exe app (for product) 
+  npm run package : rebuild vue project and move package file to project, at last,package prject and build a exe app (for product) 
 ```
 
 #### Suggest

@@ -25,3 +25,44 @@
 [2017-12-26 15:54:31.232] [INFO] access - GET / 200 0 ms
 [2017-12-26 15:54:31.265] [WARN] access - GET /images/logo.png 304 1 ms
 [2017-12-26 15:55:22.239] [INFO] access - GET / 200 13 ms
+[2017-12-26 16:42:15.357] [INFO] access - GET / 200 29 ms
+[2017-12-26 16:42:15.458] [WARN] access - GET /stylesheets/bootstrap.min.css 304 4 ms
+[2017-12-26 16:42:15.467] [WARN] access - GET /stylesheets/login.css 304 5 ms
+[2017-12-26 16:42:15.488] [WARN] access - GET /javascripts/jquery.min.js 304 26 ms
+[2017-12-26 16:42:15.488] [WARN] access - GET /javascripts/login.js 304 23 ms
+[2017-12-26 16:42:15.583] [WARN] access - GET /javascripts/bootstrap.min.js 304 117 ms
+[2017-12-26 16:43:25.173] [INFO] access - POST /login 200 35 ms
+[2017-12-26 16:43:25.195] [ERROR] access - GET / 500 7 ms
+[2017-12-26 16:45:06.797] [INFO] access - GET / 200 32 ms
+[2017-12-26 16:45:06.832] [WARN] access - GET /stylesheets/bootstrap.min.css 304 13 ms
+[2017-12-26 16:45:06.851] [WARN] access - GET /stylesheets/login.css 304 30 ms
+[2017-12-26 16:45:06.895] [WARN] access - GET /javascripts/jquery.min.js 304 74 ms
+[2017-12-26 16:45:06.908] [WARN] access - GET /javascripts/bootstrap.min.js 304 88 ms
+[2017-12-26 16:45:06.910] [WARN] access - GET /javascripts/login.js 304 90 ms
+[2017-12-26 16:45:08.928] [INFO] access - POST /login 200 18 ms
+[2017-12-26 16:45:08.949] [INFO] access - GET / 200 3 ms
+[2017-12-26 16:59:53.742] [INFO] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 / 200 39 ms
+[2017-12-26 16:59:53.845] [WARN] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /stylesheets/bootstrap.min.css 304 4 ms
+[2017-12-26 16:59:53.858] [WARN] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /stylesheets/login.css 304 3 ms
+[2017-12-26 16:59:53.914] [WARN] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /javascripts/login.js 304 2 ms
+[2017-12-26 16:59:53.997] [WARN] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /javascripts/bootstrap.min.js 304 84 ms
+[2017-12-26 16:59:53.999] [WARN] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /javascripts/jquery.min.js 304 87 ms
+[2017-12-26 17:00:12.573] [INFO] access - POST HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /login 200 26 ms
+[2017-12-26 17:00:12.605] [INFO] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 / 200 2 ms
+[2017-12-26 17:00:31.553] [INFO] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 / 200 54 ms
+[2017-12-26 17:00:31.586] [WARN] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /stylesheets/bootstrap.min.css 304 8 ms
+[2017-12-26 17:00:31.586] [WARN] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /stylesheets/login.css 304 2 ms
+[2017-12-26 17:00:31.605] [WARN] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /javascripts/jquery.min.js 304 7 ms
+[2017-12-26 17:00:31.607] [WARN] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /javascripts/bootstrap.min.js 304 2 ms
+[2017-12-26 17:00:31.612] [WARN] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /javascripts/login.js 304 7 ms
+[2017-12-26 17:00:36.746] [INFO] access - POST HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /login 200 48 ms
+[2017-12-26 17:00:36.763] [INFO] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 / 200 5 ms
+[2017-12-26 17:00:43.771] [WARN] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 / 304 2 ms
+[2017-12-26 17:05:11.868] [INFO] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 / 200 35 ms
+[2017-12-26 17:05:12.182] [WARN] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /stylesheets/bootstrap.min.css 304 12 ms
+[2017-12-26 17:05:12.294] [WARN] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /stylesheets/login.css 304 1 ms
+[2017-12-26 17:05:12.298] [WARN] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /javascripts/jquery.min.js 304 2 ms
+[2017-12-26 17:05:12.309] [WARN] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /javascripts/bootstrap.min.js 304 12 ms
+[2017-12-26 17:05:12.309] [WARN] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /javascripts/login.js 304 12 ms
+[2017-12-26 17:05:14.683] [INFO] access - POST HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 /login 200 27 ms
+[2017-12-26 17:05:14.702] [INFO] access - GET HTTP/1.1 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0 / 200 6 ms

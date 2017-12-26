@@ -10,7 +10,7 @@ module.exports = {
     access: function () {
         return log4js.connectLogger(log4js.getLogger('access'), {
             level: 'auto',
-            format: ':method :url :status :response-time ms'
+            format: ':method HTTP/:http-version :user-agent :url :status :response-time ms'
         });
     },
 }

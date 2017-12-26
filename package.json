@@ -15,7 +15,9 @@
     "move": "node build/electron/packagers/move.js",
     "electron_dev": "electron build/electron/electron.js",
     "electron_rebuild_dev": "npm run build && electron build/electron/electron.js",
-    "package": "npm run build && npm run move && electron-packager ./node-vue-blog simple-blog --platform=win32 --arch=x64 --out ./blog-versions --version 1.0.0 --icon=./node-vue-blog/favicon.ico --overwrite"
+    
+    "package": "electron-packager ./node-vue-blog simple-blog --platform=win32 --arch=x64 --out ./blog-versions --version 1.0.0 --icon=./node-vue-blog/favicon.ico --overwrite",
+    "deploy" : "npm run build && npm run move && npm run package"
   },
   "dependencies": {
     "vue": "^2.5.2",

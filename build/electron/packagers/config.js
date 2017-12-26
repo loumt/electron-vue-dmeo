@@ -18,6 +18,7 @@ module.exports = {
     // open tools when window at once
     isNeedDevTools: false,
   },
+  //deploy config
   windowConfig:{
     width: 1000,
     height: 750,

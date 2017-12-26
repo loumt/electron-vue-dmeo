@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Test</title>
+  <link rel="stylesheet" type="text/css" href="/stylesheets/bootstrap.min.css"/>
+  <link rel="stylesheet" type="text/css" href="/stylesheets/login.css"/>
+</head>
+
+<body>
+  <div class="login-content">
+      <form>
+          <div class="form-group">
+            <label for="username">Username</label>
+            <input type="text" class="form-control" id="username" placeholder="Username">
+          </div>
+          <div class="form-group">
+            <label for="password">Password</label>
+            <input type="password" class="form-control" id="password" placeholder="Password">
+          </div>
+          <div class="form-notice">
+            <label>
+              <span id="errMsg"></span>
+            </label>
+          </div>
+          <button type="button" class="btn btn-primary log-btn" onclick="login()">登录</button>
+        </form>
+  </div>
+</body>
+
+<script src="/javascripts/jquery.min.js"></script>
+<script src="/javascripts/bootstrap.min.js"></script>
+<script src="/javascripts/login.js"></script>
+</html>
